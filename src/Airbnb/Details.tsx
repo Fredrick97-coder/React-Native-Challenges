@@ -189,7 +189,7 @@ const Details = () => {
                   <Text style={styles.text}>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
                     perferendis harum vitae? Ad, saepe commodi odit quam in
-                    repellendus itaque!
+                    repellendus itaque--!
                   </Text>
                 </View>
               );
